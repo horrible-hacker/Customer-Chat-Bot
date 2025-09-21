@@ -2,7 +2,7 @@
 ## DatasetUsed
 [Dataset Link](https://huggingface.co/datasets/bitext/Bitext-customer-support-llm-chatbot-training-dataset)
 ### Properties:
-* flags: tags (explained below in the Language Generation Tags section)
+* flags: tags
 * instruction: a user request from the Customer Service domain
 * category: the high-level semantic category for the intent
 * intent: the intent corresponding to the user instruction
