@@ -1,6 +1,6 @@
 # Customer-Chat-Bot
 ## DatasetUsed
-[Dataset Link] (https://huggingface.co/datasets/bitext/Bitext-customer-support-llm-chatbot-training-dataset)
+[Dataset Link](https://huggingface.co/datasets/bitext/Bitext-customer-support-llm-chatbot-training-dataset)
 ### Properties:
 * flags: tags (explained below in the Language Generation Tags section)
 * instruction: a user request from the Customer Service domain
